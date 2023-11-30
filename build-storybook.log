@@ -1,0 +1,91 @@
+yarn run v1.22.21
+$ storybook build --output-dir /tmp/chromatic--66035-opJuD4ShLgPa
+@storybook/cli v7.5.3
+
+info => Cleaning outputDir: /tmp/chromatic--66035-opJuD4ShLgPa
+info => Loading presets
+info => Building manager..
+info => Manager built (264 ms)
+info => Building preview..
+info => Copying static files: /home/irhamnh/learnstorybook-design-system/node_modules/@storybook/manager/static at /tmp/chromatic--66035-opJuD4ShLgPa/sb-common-assets
+vite v4.3.9 building for production...
+
+./sb-common-assets/fonts.css doesn't exist at build time, it will remain unchanged to be resolved at runtime
+transforming...
+node_modules/telejson/dist/index.mjs (1413:15) Use of eval in "node_modules/telejson/dist/index.mjs" is strongly discouraged as it poses security risks and may cause issues with minification.
+node_modules/telejson/dist/index.mjs (1416:18) Use of eval in "node_modules/telejson/dist/index.mjs" is strongly discouraged as it poses security risks and may cause issues with minification.
+✓ 1418 modules transformed.
+rendering chunks...
+computing gzip size...
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/youtube-9f26eb0b.svg                                                   0.72 kB │ gzip:   0.36 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/tutorials-adff6365.svg                                                 1.27 kB │ gzip:   0.63 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/discord-f7d1b78c.svg                                                   2.41 kB │ gzip:   1.15 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/github-cdfc3270.svg                                                    2.72 kB │ gzip:   1.28 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/context-c612d889.png                                                   6.12 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/styling-c83082e0.png                                                   7.24 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/iframe.html                                                                  12.71 kB │ gzip:   3.57 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/docs-5b0c7100.png                                                     27.88 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/share-b59d6c77.png                                                    40.77 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/accessibility-cd6d60f7.png                                            42.34 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/figma-plugin-b0a5ad2d.png                                             44.25 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/theming-b6e819c3.png                                                  44.37 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/testing-6a59f681.png                                                  49.31 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/addon-library-bc7ba705.png                                           467.37 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Header-a6911580.css                                                    0.51 kB │ gzip:   0.31 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Button-bc1a867b.css                                                    0.52 kB │ gzip:   0.29 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Page.stories-ece1482a.css                                              0.93 kB │ gzip:   0.39 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/index-186b3228.js                                                      0.25 kB │ gzip:   0.20 kB │ map:     0.10 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/emotion-use-insertion-effect-with-fallbacks.browser.esm-ae8e40e8.js    0.27 kB │ gzip:   0.23 kB │ map:     1.14 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/WithTooltip-4HIR6TLV-8caab3fe.js                                       0.51 kB │ gzip:   0.31 kB │ map:     0.11 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/syntaxhighlighter-NMPM6SWI-634c01fa.js                                 0.52 kB │ gzip:   0.33 kB │ map:     0.12 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/index-1d576ef5.js                                                      0.53 kB │ gzip:   0.34 kB │ map:     4.27 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/react-18-eea25a89.js                                                   0.59 kB │ gzip:   0.38 kB │ map:     2.61 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/preview-815b9a90.js                                                    0.62 kB │ gzip:   0.39 kB │ map:     0.55 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/preview-06eb91f1.js                                                    0.63 kB │ gzip:   0.41 kB │ map:     2.31 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/preview-87eac49b.js                                                    0.68 kB │ gzip:   0.48 kB │ map:     3.89 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/_commonjsHelpers-042e6b4d.js                                           0.78 kB │ gzip:   0.44 kB │ map:     0.11 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/index-356e4a49.js                                                      0.81 kB │ gzip:   0.51 kB │ map:     3.25 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/index-1fc0ca9a.js                                                      0.84 kB │ gzip:   0.55 kB │ map:     4.07 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/preview-b3c37142.js                                                    0.90 kB │ gzip:   0.59 kB │ map:     2.92 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/jsx-runtime-91a467a5.js                                                1.02 kB │ gzip:   0.64 kB │ map:     2.29 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Header.stories-4f12c509.js                                             1.06 kB │ gzip:   0.55 kB │ map:     0.11 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/StoryLinkWrapper-f7a8a26b.js                                           1.11 kB │ gzip:   0.52 kB │ map:     1.91 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/animation-3d278c8f.js                                                  1.24 kB │ gzip:   0.43 kB │ map:     2.16 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/DocsRenderer-NNNQARDV-5504869a.js                                      1.39 kB │ gzip:   0.76 kB │ map:     2.65 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Button-8f72e005.js                                                     1.51 kB │ gzip:   0.71 kB │ map:     2.01 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Button.stories-7f7b41ae.js                                             1.71 kB │ gzip:   0.67 kB │ map:     0.13 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Header-8aec8db0.js                                                     1.73 kB │ gzip:   0.85 kB │ map:     3.14 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/preview-1066d3c2.js                                                    1.86 kB │ gzip:   0.99 kB │ map:     3.74 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/chunk-AY7I2SME-5eb1ab46.js                                             1.87 kB │ gzip:   1.02 kB │ map:     8.75 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/styles-e84c824f.js                                                     2.13 kB │ gzip:   1.20 kB │ map:    19.71 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/index-d37d4223.js                                                      2.63 kB │ gzip:   1.30 kB │ map:     7.46 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Icon.stories-708e56ea.js                                               3.22 kB │ gzip:   1.27 kB │ map:     0.14 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/preview-108c1c3c.js                                                    3.26 kB │ gzip:   1.41 kB │ map:    10.08 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Badge.stories-b8fed635.js                                              4.86 kB │ gzip:   1.60 kB │ map:     2.69 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Avatar.stories-0668e3d9.js                                             6.41 kB │ gzip:   2.17 kB │ map:     5.89 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/index-8db94870.js                                                      7.21 kB │ gzip:   2.95 kB │ map:    15.68 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Link.stories-32969313.js                                               7.23 kB │ gzip:   2.30 kB │ map:     6.72 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/preview-b8d6c68d.js                                                    7.67 kB │ gzip:   1.59 kB │ map:    13.71 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/iframe-3771c1e7.js                                                     7.67 kB │ gzip:   1.98 kB │ map:     6.19 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/preview-2059b184.js                                                    8.32 kB │ gzip:   3.20 kB │ map:    29.37 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/polished.esm-b6220ab2.js                                              10.91 kB │ gzip:   3.90 kB │ map:   150.23 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Configure-9b3ee911.js                                                 17.09 kB │ gzip:   7.77 kB │ map:    26.42 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/emotion-react-jsx-runtime.browser.esm-717d8bd1.js                     17.55 kB │ gzip:   7.09 kB │ map:   106.95 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/preview-cfb5d776.js                                                   21.12 kB │ gzip:   7.00 kB │ map:    68.20 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Button.stories-61002903.js                                            22.42 kB │ gzip:   3.89 kB │ map:    15.74 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Color-6VNJS4EI-fca3e1db.js                                            31.11 kB │ gzip:  11.69 kB │ map:   112.36 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Icon-266bd3f1.js                                                     140.39 kB │ gzip:  51.55 kB │ map:   155.79 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/index-d7375a6d.js                                                    212.78 kB │ gzip:  66.50 kB │ map:   650.51 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/config-6e9892c8.js                                                   213.48 kB │ gzip:  66.38 kB │ map:   801.83 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/Page.stories-406b5198.js                                             368.22 kB │ gzip:  83.67 kB │ map: 1,319.90 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/index-75510db4.js                                                    523.54 kB │ gzip: 170.84 kB │ map: 1,396.49 kB
+../../../tmp/chromatic--66035-opJuD4ShLgPa/assets/formatter-SWP5E3XI-3d029cb3.js                                       601.70 kB │ gzip: 185.08 kB │ map: 1,314.24 kB
+
+(!) Some chunks are larger than 500 kBs after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 9.70s
+info => Preview built (11 s)
+info => Output directory: /tmp/chromatic--66035-opJuD4ShLgPa
+Done in 13.29s.
