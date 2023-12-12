@@ -4,4 +4,4 @@ The Storybook design system tutorial is a subset of the full [Storybook design s
 
 Learn more in [Storybook tutorials](https://storybook.js.org/tutorials/).
 
-Test release 2
+Test release 3 Major
