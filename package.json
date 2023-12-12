@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@irhamhqm/learnstorybook-design-system-template",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -47,7 +47,7 @@
     "@storybook/test-runner": "^0.16.0",
     "@storybook/testing-library": "^0.2.2",
     "@vitejs/plugin-react": "^3.1.0",
-    "auto": "^10.3.0",
+    "auto": "^11.0.4",
     "boxen": "^5.0.1",
     "chromatic": "^9.1.0",
     "dedent": "^0.7.0",
@@ -83,5 +83,8 @@
     "jackspeak": "2.1.1"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "learnstorybook-design-system-template@0.1.0"
+  "_id": "learnstorybook-design-system-template@0.1.0",
+  "description": "story book design system tutorial",
+  "repository": "git@github.com:irhamhqm/learnstorybook-design-system.git",
+  "author": "irhamnh <irhamhkm.work@gmail.com>"
 }
