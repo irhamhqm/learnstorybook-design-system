@@ -1,3 +1,16 @@
+# v1.0.0 (Tue Dec 12 2023)
+
+#### 💥 Breaking Change
+
+- test major release [#4](https://github.com/irhamhqm/learnstorybook-design-system/pull/4) ([@irhamnh](https://github.com/irhamnh) [@irhamhqm](https://github.com/irhamhqm))
+
+#### Authors: 2
+
+- [@irhamnh](https://github.com/irhamnh)
+- Irham Nur Hakim ([@irhamhqm](https://github.com/irhamhqm))
+
+---
+
 # v0.1.1 (Tue Dec 12 2023)
 
 #### ⚠️ Pushed to `main`
